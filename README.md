@@ -29,7 +29,9 @@ This Power BI dashboard provides insights into Blinkit’s sales performance, av
 	3.	Explore the filters and visualizations to analyze the dataset.
  
 # Preview (Screenshots)
-<a href ""</a>
+
+![Screenshot 2025-03-28 000357](https://github.com/user-attachments/assets/79db4010-ab3e-487d-bd47-06d5ef21f07c)
+
 
 # Future Enhancements
 	•	Connect to a live database (SQL/Azure) instead of static CSV.
